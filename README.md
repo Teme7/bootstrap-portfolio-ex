@@ -1,6 +1,6 @@
 # bootstrap-portfolio-ex
 
-* Start from scratch or hack bootstrap boilerplate!
+* I chose to start from scratch instead of hacking bootstrap boilerplate!
 
   Navbar contains name, about, portfolio, and contact tabs
   A header and side panel
